@@ -5,6 +5,7 @@
 30天计划，通过实际案例学习 JavaScript 核心
 
 官网地址：[https://JavaScript30.com](https://JavaScript30.com)
+原项目地址：[https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 
 ## 社区资源
 

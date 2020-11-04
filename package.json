@@ -1,0 +1,12 @@
+{
+  "name": "JavaScript30",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wesbos/JavaScript30.git",
+  "author": "Orime小猪 <1126439586@qq.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.12.1"
+  }
+}
